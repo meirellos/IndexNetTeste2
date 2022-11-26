@@ -247,7 +247,7 @@ figcaption  {
 }
 
 .background-modelo{
-    background-image: url(./assets/img/Modelo.png);
+    background-image: url(assets/img/Modelo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
