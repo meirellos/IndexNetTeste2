@@ -12,8 +12,8 @@
     color: inherit;
 }
 
-.background{
-    background-image: url(./assets/img/background.png);
+
+.background image{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
